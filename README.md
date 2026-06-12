@@ -23,10 +23,10 @@
 * Domain-Driven Design (DDD)
 * Software Architecture
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-A-Pasqualini\&show_icons=true)
-
+-->
 ## 📫 Contact
 
 * LinkedIn: https://www.linkedin.com/in/gabriel-pasqualini
