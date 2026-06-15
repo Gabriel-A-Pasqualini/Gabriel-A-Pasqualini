@@ -22,7 +22,9 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-808080?style=for-the-badge&logo=microsoft&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/SQL_Server_Logo.svg/120px-SQL_Server_Logo.svg.png" height="28"/>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-A91D22?style=for-the-badge)
 ![Informix](https://img.shields.io/badge/Informix-FF6600?style=for-the-badge)
 
 <!--###### 📚 Interests
