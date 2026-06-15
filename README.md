@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-💻 Software Developer passionate about building mobile and backend applications.
+💻 Software Developer with 4+ years of experience in software development, focused on backend and mobile applications. Experienced in database design, development, and optimization, working primarily with SQL Server and Oracle, as well as PostgreSQL and Informix.
 
 <!--#### 🚀 Current Projects
 
