@@ -16,14 +16,14 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-## 📚 Interests
+<!--###### 📚 Interests
 
 * Clean Code
 * SOLID Principles
 * Domain-Driven Design (DDD)
 * Software Architecture
 
-<!--## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-A-Pasqualini\&show_icons=true)
 -->
