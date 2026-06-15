@@ -16,7 +16,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=sql\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge\&logo=git\&logoColor=white)
 
 <!--###### 📚 Interests
 
