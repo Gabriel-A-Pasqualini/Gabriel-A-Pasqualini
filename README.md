@@ -2,11 +2,11 @@
 
 💻 Software Developer passionate about building mobile and backend applications.
 
-## 🚀 Current Projects
+<!--#### 🚀 Current Projects
 
 * 🚗 FuelPrice App (Flutter)
 * ⚙️ FuelPrice API (Spring Boot)
-
+-->
 ## 🛠️ Technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
