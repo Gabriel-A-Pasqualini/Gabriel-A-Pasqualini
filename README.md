@@ -16,7 +16,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge\&logo=git\&logoColor=white)
-![Sql](https://img.shields.io/badge/SQL-yellow?style=for-the-badge\&logo=sql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F7DF1E?style=for-the-badge&logo=databricks&logoColor=black)
 
 ## 🗄️ Databases
 
