@@ -21,9 +21,11 @@
 ## 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge)
-![SQL Server](https://img.shields.io/badge/SQL_Server-808080?style=for-the-badge&logo=windows&logoColor=white)
-![Informix](https://img.shields.io/badge/Informix-FF6600?style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
+</p>
 
 <!--###### 📚 Interests
 
