@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Gabriel Pasqualini
+# Hi there! 👋
 
 💻 Software Developer passionate about building mobile and backend applications.
 
