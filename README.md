@@ -43,7 +43,7 @@
   <a href="mailto:gabrielpasqualini2@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-pasqualini">
+  <a href="https://www.linkedin.com/in/gabriel-a-pasqualini">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
   <a href="https://github.com/Gabriel-A-Pasqualini">
